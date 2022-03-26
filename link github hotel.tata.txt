@@ -1,3 +1,1 @@
-
-
-git@github.com:Rictajuliyanti/Rich-Hotel.git
+https://github.com/Rictajuliyanti/Rich-Hotel.git
